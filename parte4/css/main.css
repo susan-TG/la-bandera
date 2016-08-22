@@ -1,0 +1,18 @@
+/* Escribe tu css aqui */
+body {
+	margin-top: 10PX;
+	
+}
+.box {
+	height: 100px;
+	width: 200px;
+	padding: 10px;
+	margin-left: 10px;
+	display: inline;
+}
+.yellow {
+	background-color: yellow;
+}
+.red {
+	background-color: red;
+}
