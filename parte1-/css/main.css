@@ -1,0 +1,13 @@
+/* Escribe tu css aqui */
+body {
+	margin: 0;
+}
+.yellow, .red {
+	height: 100px
+}
+.yellow {
+	background-color: yellow;
+}
+.red {
+	background-color: red;
+}
